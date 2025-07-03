@@ -2,7 +2,7 @@
 
 This Power BI dashboard explores demographic data across US states, with breakdowns by region and time.
 
-![Main Dashboard](./screenshots/main-dashboard.png)
+![Main Dashboard](./main-dashboard.png)
 
 ## 🧩 Features
 
@@ -28,13 +28,13 @@ This Power BI dashboard explores demographic data across US states, with breakdo
 ## 📸 Additional Views
 
 **Growth Rate Page**  
-![Growth Rate](./screenshots/growth-rate.png)
+![Growth Rate](./growth-rate.png)
 
 **Filtered View (South Region)**  
-![Filtered South](./screenshots/filtered-south.png)
+![Filtered South](./filtered-south.png)
 
 **Custom Tooltip - Kansas**  
-![Kansas Tooltip](./screenshots/tooltip-kansas.png)
+![Kansas Tooltip](./tooltip-kansas.png)
 
 ---
 
